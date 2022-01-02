@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/SirmaSolution.PairEmployees.WinClient/obj
+/SirmaSolution.PairEmployees.UnitTests/obj
+/SirmaSolution.PairEmployees.ConsoleClient/obj
+/SirmaSolution.PairEmployees/obj
